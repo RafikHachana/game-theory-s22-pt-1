@@ -1,0 +1,12 @@
+Started Game at initial position 1950, with final position 2036
+Allowed moves are in [(+1) .. (+36)], legal positions are [1950 .. 2036].
+Game started in advisor mode.
+[ADVISOR] We advise you to move by +12
+Duplicator moved by (+12) to 1962
+Spoiler moved by (+32) to 1994
+[ADVISOR] We advise you to move by +5
+Duplicator moved by (+5) to 1999
+Spoiler moved by (+34) to 2033
+[ADVISOR] We advise you to move by +3
+Duplicator moved by (+3) to 2036
+Duplicator WON!
