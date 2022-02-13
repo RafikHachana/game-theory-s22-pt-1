@@ -1,0 +1,6 @@
+Started Game at initial position 1970, with final position 2036
+Allowed moves are in [(+1) .. (+36)], legal positions are [1970 .. 2036].
+Game started in smart mode.
+Duplicator moved by (+36) to 2006
+Spoiler moved by (+30) to 2036
+Spoiler WON!

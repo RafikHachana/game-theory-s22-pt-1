@@ -1,3 +1,10 @@
+"""
+Rafik Hachana
+Birthdate: 30-06-2000
+B19-DS01
+r.hachana@innopolis.university
+"""
+
 from datetime import datetime
 import random
 
